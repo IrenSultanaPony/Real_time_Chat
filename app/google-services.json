@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "948673402085",
+    "firebase_url": "https://chatapp-2fcf6.firebaseio.com",
+    "project_id": "chatapp-2fcf6",
+    "storage_bucket": "chatapp-2fcf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948673402085:android:94ec24b8998f15c5",
+        "android_client_info": {
+          "package_name": "app.pony.com.real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948673402085-5selh2vdf8btbj1ldpl805uh62p5eotl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTpYBVsrym_bW8MUbbfI_VE6aBEpiXUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
